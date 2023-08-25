@@ -1,5 +1,7 @@
 #Continuous Integration and Deployment with Jenkins Master-Slave Architecture using Git, 
-GitHub, Maven, Tomcat, and Terraform on Amazon Web Services (AWS)
+GitHub, Maven, Tomcat, and Terraform on Amazon Web Services (AWS).
+
+
 ✓ Tools and Services: Java · Maven · Tomcat · Jenkins · GitHub · Git · Amazon Web Services.
 ✓ Role: Team Member 
 ✓ Description: The aim of this project is to implement a robust Continuous Integration and 
